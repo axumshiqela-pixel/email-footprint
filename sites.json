@@ -1,0 +1,462 @@
+[
+  {
+    "name": "GitHub",
+    "domain": "github.com",
+    "method": "manual"
+  },
+  {
+    "name": "Reddit",
+    "domain": "reddit.com",
+    "method": "manual"
+  },
+  {
+    "name": "Spotify",
+    "domain": "spotify.com",
+    "method": "manual"
+  },
+  {
+    "name": "Pinterest",
+    "domain": "pinterest.com",
+    "method": "manual"
+  },
+  {
+    "name": "Tumblr",
+    "domain": "tumblr.com",
+    "method": "manual"
+  },
+  {
+    "name": "Replit",
+    "domain": "replit.com",
+    "method": "manual"
+  },
+  {
+    "name": "SoundCloud",
+    "domain": "soundcloud.com",
+    "method": "manual"
+  },
+  {
+    "name": "Twitch",
+    "domain": "twitch.tv",
+    "method": "manual"
+  },
+  {
+    "name": "Snapchat",
+    "domain": "snapchat.com",
+    "method": "manual"
+  },
+  {
+    "name": "X",
+    "domain": "x.com",
+    "method": "manual"
+  },
+  {
+    "name": "Pornhub",
+    "domain": "pornhub.com",
+    "method": "manual"
+  },
+  {
+    "name": "XNXX",
+    "domain": "xnxx.com",
+    "method": "manual"
+  },
+  {
+    "name": "XVideos",
+    "domain": "xvideos.com",
+    "method": "manual"
+  },
+  {
+    "name": "XHamster",
+    "domain": "xhamster.com",
+    "method": "manual"
+  },
+  {
+    "name": "RedTube",
+    "domain": "redtube.com",
+    "method": "manual"
+  },
+  {
+    "name": "YouPorn",
+    "domain": "youporn.com",
+    "method": "manual"
+  },
+  {
+    "name": "Instagram",
+    "domain": "instagram.com",
+    "method": "manual"
+  },
+  {
+    "name": "Facebook",
+    "domain": "facebook.com",
+    "method": "manual"
+  },
+  {
+    "name": "TikTok",
+    "domain": "tiktok.com",
+    "method": "manual"
+  },
+  {
+    "name": "LinkedIn",
+    "domain": "linkedin.com",
+    "method": "manual"
+  },
+  {
+    "name": "YouTube",
+    "domain": "youtube.com",
+    "method": "manual"
+  },
+  {
+    "name": "Threads",
+    "domain": "threads.net",
+    "method": "manual"
+  },
+  {
+    "name": "Bluesky",
+    "domain": "bsky.app",
+    "method": "manual"
+  },
+  {
+    "name": "Mastodon",
+    "domain": "mastodon.social",
+    "method": "manual"
+  },
+  {
+    "name": "Telegram",
+    "domain": "telegram.org",
+    "method": "manual"
+  },
+  {
+    "name": "Discord",
+    "domain": "discord.com",
+    "method": "manual"
+  },
+  {
+    "name": "WhatsApp",
+    "domain": "whatsapp.com",
+    "method": "manual"
+  },
+  {
+    "name": "Medium",
+    "domain": "medium.com",
+    "method": "manual"
+  },
+  {
+    "name": "Substack",
+    "domain": "substack.com",
+    "method": "manual"
+  },
+  {
+    "name": "Quora",
+    "domain": "quora.com",
+    "method": "manual"
+  },
+  {
+    "name": "Stack Overflow",
+    "domain": "stackoverflow.com",
+    "method": "manual"
+  },
+  {
+    "name": "GitLab",
+    "domain": "gitlab.com",
+    "method": "manual"
+  },
+  {
+    "name": "Bitbucket",
+    "domain": "bitbucket.org",
+    "method": "manual"
+  },
+  {
+    "name": "CodePen",
+    "domain": "codepen.io",
+    "method": "manual"
+  },
+  {
+    "name": "Hugging Face",
+    "domain": "huggingface.co",
+    "method": "manual"
+  },
+  {
+    "name": "Kaggle",
+    "domain": "kaggle.com",
+    "method": "manual"
+  },
+  {
+    "name": "LeetCode",
+    "domain": "leetcode.com",
+    "method": "manual"
+  },
+  {
+    "name": "HackerRank",
+    "domain": "hackerrank.com",
+    "method": "manual"
+  },
+  {
+    "name": "Steam",
+    "domain": "steampowered.com",
+    "method": "manual"
+  },
+  {
+    "name": "Epic Games",
+    "domain": "epicgames.com",
+    "method": "manual"
+  },
+  {
+    "name": "Roblox",
+    "domain": "roblox.com",
+    "method": "manual"
+  },
+  {
+    "name": "Minecraft",
+    "domain": "minecraft.net",
+    "method": "manual"
+  },
+  {
+    "name": "PlayStation",
+    "domain": "playstation.com",
+    "method": "manual"
+  },
+  {
+    "name": "Xbox",
+    "domain": "xbox.com",
+    "method": "manual"
+  },
+  {
+    "name": "Kick",
+    "domain": "kick.com",
+    "method": "manual"
+  },
+  {
+    "name": "Battle.net",
+    "domain": "battle.net",
+    "method": "manual"
+  },
+  {
+    "name": "Riot Games",
+    "domain": "riotgames.com",
+    "method": "manual"
+  },
+  {
+    "name": "EA",
+    "domain": "ea.com",
+    "method": "manual"
+  },
+  {
+    "name": "Ubisoft",
+    "domain": "ubisoft.com",
+    "method": "manual"
+  },
+  {
+    "name": "Netflix",
+    "domain": "netflix.com",
+    "method": "manual"
+  },
+  {
+    "name": "Disney+",
+    "domain": "disneyplus.com",
+    "method": "manual"
+  },
+  {
+    "name": "Hulu",
+    "domain": "hulu.com",
+    "method": "manual"
+  },
+  {
+    "name": "Max",
+    "domain": "max.com",
+    "method": "manual"
+  },
+  {
+    "name": "Prime Video",
+    "domain": "primevideo.com",
+    "method": "manual"
+  },
+  {
+    "name": "Deezer",
+    "domain": "deezer.com",
+    "method": "manual"
+  },
+  {
+    "name": "Bandcamp",
+    "domain": "bandcamp.com",
+    "method": "manual"
+  },
+  {
+    "name": "Last.fm",
+    "domain": "last.fm",
+    "method": "manual"
+  },
+  {
+    "name": "Vimeo",
+    "domain": "vimeo.com",
+    "method": "manual"
+  },
+  {
+    "name": "Dailymotion",
+    "domain": "dailymotion.com",
+    "method": "manual"
+  },
+  {
+    "name": "Giphy",
+    "domain": "giphy.com",
+    "method": "manual"
+  },
+  {
+    "name": "Tenor",
+    "domain": "tenor.com",
+    "method": "manual"
+  },
+  {
+    "name": "Amazon",
+    "domain": "amazon.com",
+    "method": "manual"
+  },
+  {
+    "name": "eBay",
+    "domain": "ebay.com",
+    "method": "manual"
+  },
+  {
+    "name": "Etsy",
+    "domain": "etsy.com",
+    "method": "manual"
+  },
+  {
+    "name": "AliExpress",
+    "domain": "aliexpress.com",
+    "method": "manual"
+  },
+  {
+    "name": "Alibaba",
+    "domain": "alibaba.com",
+    "method": "manual"
+  },
+  {
+    "name": "Temu",
+    "domain": "temu.com",
+    "method": "manual"
+  },
+  {
+    "name": "Shein",
+    "domain": "shein.com",
+    "method": "manual"
+  },
+  {
+    "name": "Walmart",
+    "domain": "walmart.com",
+    "method": "manual"
+  },
+  {
+    "name": "PayPal",
+    "domain": "paypal.com",
+    "method": "manual"
+  },
+  {
+    "name": "Wise",
+    "domain": "wise.com",
+    "method": "manual"
+  },
+  {
+    "name": "Fiverr",
+    "domain": "fiverr.com",
+    "method": "manual"
+  },
+  {
+    "name": "Upwork",
+    "domain": "upwork.com",
+    "method": "manual"
+  },
+  {
+    "name": "Canva",
+    "domain": "canva.com",
+    "method": "manual"
+  },
+  {
+    "name": "Figma",
+    "domain": "figma.com",
+    "method": "manual"
+  },
+  {
+    "name": "Notion",
+    "domain": "notion.so",
+    "method": "manual"
+  },
+  {
+    "name": "Trello",
+    "domain": "trello.com",
+    "method": "manual"
+  },
+  {
+    "name": "Dropbox",
+    "domain": "dropbox.com",
+    "method": "manual"
+  },
+  {
+    "name": "Box",
+    "domain": "box.com",
+    "method": "manual"
+  },
+  {
+    "name": "Proton",
+    "domain": "proton.me",
+    "method": "manual"
+  },
+  {
+    "name": "Yahoo",
+    "domain": "yahoo.com",
+    "method": "manual"
+  },
+  {
+    "name": "Outlook",
+    "domain": "outlook.com",
+    "method": "manual"
+  },
+  {
+    "name": "Patreon",
+    "domain": "patreon.com",
+    "method": "manual"
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "domain": "buymeacoffee.com",
+    "method": "manual"
+  },
+  {
+    "name": "Kickstarter",
+    "domain": "kickstarter.com",
+    "method": "manual"
+  },
+  {
+    "name": "Indiegogo",
+    "domain": "indiegogo.com",
+    "method": "manual"
+  },
+  {
+    "name": "Booking.com",
+    "domain": "booking.com",
+    "method": "manual"
+  },
+  {
+    "name": "Airbnb",
+    "domain": "airbnb.com",
+    "method": "manual"
+  },
+  {
+    "name": "Tripadvisor",
+    "domain": "tripadvisor.com",
+    "method": "manual"
+  },
+  {
+    "name": "Duolingo",
+    "domain": "duolingo.com",
+    "method": "manual"
+  },
+  {
+    "name": "Coursera",
+    "domain": "coursera.org",
+    "method": "manual"
+  },
+  {
+    "name": "Udemy",
+    "domain": "udemy.com",
+    "method": "manual"
+  }
+]
