@@ -204,7 +204,7 @@ def api_holehe():
     try:
         result = subprocess.run(
             [
-                "/data/data/com.termux/files/usr/bin/holehe",
+                 "holehe",
                 "--no-clear",
                 "--no-color",
                 "--no-password-recovery",
